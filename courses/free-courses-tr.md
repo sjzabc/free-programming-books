@@ -7,8 +7,10 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Makine Öğrenmesi](#makine-ogrenmesi)
 * [Python](#python)
 * [React](#react)
+* [SQL](#sql)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -16,6 +18,7 @@
 ### Algoritmalar
 
 * [Algoritma Analizi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) - BilgisayarKavramlari
+* [Algoritmalar ve Veri Yapıları](https://www.youtube.com/playlist?list=PLMQXT_yvb6DUV3usqrNYMfAXoYGXtpmSq) - Berat Ersarı
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 * [On Derste Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB) - Murat Yücedağ
@@ -41,6 +44,7 @@
 * [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya \| Kodluyoruz
 * [HTML+CSS Öğreniyoruz](https://www.youtube.com/playlist?list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB) - Adem Ilter
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
+* [XHTML(HTML) ve CSS Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPjm1jnFNsQfOIDgR3wf-prc) - Erol Mesut Gün (Yakın Kampüs)
 
 
 ### IDE and editors
@@ -65,6 +69,11 @@
 * [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
 
+### <a id='makine-ogrenmesi'></a>Makine Öğrenmesi
+
+* [ML Academy](https://mltraining.org/?lang=tr) - Cagri Temel
+
+
 ### Python
 
 * [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O) - Erol Mesutgün
@@ -79,6 +88,12 @@
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
 * [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
+
+
+### SQL
+
+* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
 
 
 ### Temel programlama

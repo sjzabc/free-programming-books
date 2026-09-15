@@ -15,6 +15,7 @@
 
 ### AI
 
+* [初学者的生成式 AI .NET - 一门课程](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/zh) - Microsoft (GitHub)
 * [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
 * [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
 
@@ -38,4 +39,4 @@
 
 ### Python
 
-* [Python 新教程全集](https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q) - 在线教育
+* [最新Python编程教程19天从入门到精通](https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp) - 知知识改变命运

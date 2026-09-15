@@ -8,6 +8,7 @@
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -18,9 +19,9 @@
     * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [OpenStack](#openstack)
-* [Operation System](#operation-system)
+* [Operating System](#operating-system)
 * [Perl](#perl)
 * [PHP](#php)
     * [Laravel](#laravel)
@@ -36,19 +37,19 @@
 * [Sed](#sed)
 * [Software Engineering](#software-engineering)
 * [Springboot](#springboot)
+* [SQL](#sql)
 * [TypeScript](#typescript)
 * [Unicode](#unicode)
-* [Unity3d](#unity3d)
 
 
 ### Amazon Web Service
 
-* [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
+* [아마존 웹 서비스를 다루는 기술](https://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 
 
 ### Assembly Language
 
-* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
+* [PC Assembly Language](https://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
 
 
 ### AWK
@@ -61,7 +62,6 @@
 * [모두의 C언어](https://thebook.io/006989/) - 이형우
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
 * [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
-* [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
 
 
@@ -77,12 +77,17 @@
 
 ### Docker
 
-* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
+* [이재홍의 언제나 최신 Docker](https://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
 
 
 ### Elastic
 
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
+
+
+### Game Development
+
+* [게임 기획 실무에서 바로 쓰는 AI·클로드 코드 활용법](https://github.com/eremes81/game-design-ai-practice) - 이민수
 
 
 ### Git
@@ -94,17 +99,16 @@
 
 ### Go
 
-* [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
+* [가장 빨리 만나는 Go 언어](https://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 * [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
-* [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
 * [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
 
 
 ### HTML and CSS
 
-* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](https://fromyou.tistory.com/581)
 
 
 ### Java
@@ -114,12 +118,13 @@
 
 ### JavaScript
 
+* [모던 JavaScript 튜토리얼](https://ko.javascript.info) - Ilya Kantor
 * [JavaScript로 만나는 세상](https://helloworldjavascript.net)
 
 
 #### Node.js
 
-* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
+* [Node.js API 한글 번역](https://nodejs.sideeffect.kr/docs/) - outsideris
 
 
 #### React
@@ -139,8 +144,16 @@
 
 ### Linux
 
-* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
+* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *( :card_file_box: archived)*
+* [리눅스 커맨드라인 (제5판 인터넷 에디션)](https://wikidocs.net/book/11259) - William Shotts, `trl.:` 브리티쉬 (HTML) (CC BY-NC-ND)
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
+
+
+### Machine Learning
+
+* [<랭체인LangChain 노트> - LangChain 한국어 튜토리얼](https://wikidocs.net/book/14314) - 테디노트
+* [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - 유원준, 상준
+* [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
 
 
 ### Mathematics
@@ -148,32 +161,25 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
-### OpenStack
+### Operating System
 
-* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
-
-
-### Operation System
-
-* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, `trl.:` Youjip Won, `trl.:` Minkyu Park, `trl.:` Sungjin Lee (PDF)
 
 
 ### Perl
 
-* [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
+* [2시간 반만에 펄 익히기](https://qntm.org/files/perl/perl_kr.html)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
-* [Seoul.pm 펄 크리스마스 달력 #2014 \| Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
 
 
 ### PHP
 
-* [PHP5 의 주요 기능](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+* [숏텀 PHP](https://wikidocs.net/book/17209) - 디지털감성
 
 
 #### Laravel
 
 * [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
-* [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
@@ -191,13 +197,14 @@
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
+* [A Byte of Python 한글 번역](https://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
+* [Let's Get IT 파이썬 프로그래밍](https://thebook.io/080251) - 안지혜
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *(:construction: in process)*
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *( :construction: in process)*
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
@@ -215,8 +222,7 @@
 ### R
 
 * [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명
-* [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
-* [The R Manuals (translated in Korean)](http://www.openstatistics.net)
+* [The R Manuals (translated in Korean)](http://www.openstatistics.net/ko.html)
 
 
 ### Raspberry Pi
@@ -231,13 +237,16 @@
 
 ### Rust
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) *(:construction: in process)*
-* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) *(:construction: in process)*
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
+* [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
+* [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
+* [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
 
 
 ### Scratch
 
-* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+* [창의컴퓨팅(Creative Computing) 가이드북](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/480150000247P)
 
 
 ### Sed
@@ -256,20 +265,19 @@
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
 
+### SQL
+
+* [처음 시작하는 MySQL — 입문자를 위한 데이터베이스 기초](https://wikidocs.net/book/18461) - 최종명
+
+
 ### TypeScript
 
 * [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
 * [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
-* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
-Tech
+* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY Tech
 * [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
 
 
 ### Unicode
 
-* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
-
-
-### Unity3d
-
-* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries) - [Indie Visual Lab](https://github.com/IndieVisualLab)
+* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](https://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)

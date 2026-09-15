@@ -21,6 +21,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 
 
 ### Уровни
@@ -73,7 +74,6 @@ ADV - Продвинутый. Тонкости.
 * [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
-* [PRO Go. Основы программирования](https://stepik.org/course/158385) - Stepik (BEG)
 
 
 ### Haskell
@@ -185,7 +185,11 @@ ADV - Продвинутый. Тонкости.
 ### Ruby
 
 * [Бесплатный онлайн курс по основам Ruby](https://code-basics.com/ru/languages/ruby) - Code-basics (BEG)
-* [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 * [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)
 
+
+### Rust
+
+* [Введение в Rust](https://stepik.org/course/228001) - Stepik (BEG)
+* [Rust: Начальный уровень](https://stepik.org/course/195449) - Stepik (BEG)

@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本](README.md#nslations)*
+*[阅读本文的其他语言版本](README.md#translations)*
 
 
 ## 贡献者许可协议
@@ -8,7 +8,7 @@
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#nslations))
+请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#translations))
 
 
 ## 概要
@@ -163,14 +163,14 @@
 * <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 编写中)*
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 翻译中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 编写中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### 按字母顺序

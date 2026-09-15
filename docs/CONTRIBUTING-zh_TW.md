@@ -1,4 +1,4 @@
-*[閱讀其他語言版本的文件](README.md#nslations)*
+*[閱讀其他語言版本的文件](README.md#translations)*
 
 
 ## 貢獻者許可協議
@@ -8,7 +8,7 @@
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](README.md#nslations))
+請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](README.md#translations))
 
 
 ## 概要
@@ -147,14 +147,14 @@
 * <a id="in_process"></a>編寫(翻譯)中的書籍：
 
     ```text
-    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *(:construction: 編寫中)*
-    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *(:construction: 翻譯中)*
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *( :construction: 編寫中)*
+    正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *( :construction: 翻譯中)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    正確: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    正確: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 <!----><a id="alphabetical-order"></a>

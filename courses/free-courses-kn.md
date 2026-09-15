@@ -16,7 +16,6 @@
 ### HTML and CSS  
 
 * [CSS in Kannada (ಕನ್ನಡದಲ್ಲಿ) - Beginner to Advanced.](https://youtube.com/playlist?list=PLBGSzVCM24iHnpfOMnhuyiyEo_NGSxdPD) - DEBUG CODING
-* [HTML and CSS in Kannada || Web Designing in Kannada || CSS in Kannada || Html in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK3F2BN7ZbXb_EpnDMAlJsPo) - Learn Tech in Kannada
 * [HTML in Kannada (ಕನ್ನಡದಲ್ಲಿ) - Beginners to Advanced](https://youtube.com/playlist?list=PLBGSzVCM24iHCjyPxCZBbZSNIiFS7vDFl) - DEBUG CODING
 
 
@@ -24,7 +23,7 @@
 
 * [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkp8Az0SAWqmDPv5b2Tn9) - script kiddie
 * [JavaScript for Beginners in Kannada(Full Course)](https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE) - MicroDegree ಕನ್ನಡ
-* [Javascript tutorial in Kannada || Javascript in Kannada || Complete Javascript in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8) - Learn Tech in Kannada
+* [React JS Tutorial Series in Kannada](https://www.youtube.com/playlist?list=PLUZkVL-W-8GIYC4-b8Q8PX2M9Z1DWy8Hr) - Script kiddie  
 
 
 ### PLC
@@ -36,3 +35,5 @@
 
 * [Learn Python in Kannada](https://youtube.com/playlist?list=PLlGueSbLhZoD_mUatMaJsVukJ2Re3JAUj) - Engineering in Kannada
 * [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe) - script kiddie
+
+

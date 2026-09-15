@@ -15,7 +15,6 @@
 ### Kieliagnostinen
 
 * [Kisakoodarin käsikirja](https://www.cs.helsinki.fi/u/ahslaaks/kkkk.pdf) - Antti Laaksonen (PDF)
-* [Ohjelmoinnin peruskurssi Y1 - Opetusmoniste syksy 2017](https://grader.cs.hut.fi/static/y1/) - Kerttu Pollari-Malmi
 * [Ohjelmointi 2](https://jyx.jyu.fi/bitstream/handle/123456789/47415/978-951-39-4624-1.pdf) - Vesa Lappalainen, Santtu Viitanen (PDF)
 * [Olio-ohjelmointi käytännössä käyttäen hyväksi avointa tietoa, graafista käyttöliittymää ja karttaviitekehystä](http://urn.fi/URN:ISBN:978-952-265-756-5) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
 * [Oliosuuntautunut analyysi ja suunnittelu](https://jyx.jyu.fi/bitstream/handle/123456789/49293/oasmoniste.pdf) - Mauri Leppänen, Timo Käkölä, Miika Nurminen (PDF)
@@ -39,7 +38,7 @@
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
 * [C++-opas](http://www.nic.funet.fi/c++opas/) - Aleksi Kallio
-* [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *(:card_file_box: archived)*
+* [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *( :card_file_box: archived)*
 
 
 ### Java
@@ -60,7 +59,7 @@
 
 ### OpenGL
 
-* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *(:construction: keskeneräinen)*
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *( :construction: keskeneräinen)*
 
 
 ### PHP
